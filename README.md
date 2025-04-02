@@ -78,7 +78,7 @@
     <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
     </a>
-    <a href="https://blog.csdn.net/qq_60865111?type=blog">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/badge/Blog-CSDN-orange.svg" alt="Blog">
     </a>
   </div>
