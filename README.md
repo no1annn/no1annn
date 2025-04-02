@@ -88,7 +88,7 @@
 
 
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life_Always_Finds_A_Way.&author=Jurassic Park"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life_Always_Finds_A_Way.&author=🦖🦕"  />
 
 
 
