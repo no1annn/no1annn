@@ -115,16 +115,6 @@
 
 
 <!-- GitHub Activity Graph GitHub -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=no1an&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=no1an&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=no1an&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
 
 
 
