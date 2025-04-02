@@ -57,7 +57,7 @@
 
 <!-- Little Logo -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-  <!-- 上四部分 -->
+  <!-- First four sections -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
       <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
@@ -114,7 +114,7 @@
 
 
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- GitHub Activity Graph GitHub -->
 <table>
   <tr>
     <td>
@@ -168,7 +168,7 @@ profile-3d-contrib/profile-gitblock.svg
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 小徽章
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
 
 
 <p align="center">
