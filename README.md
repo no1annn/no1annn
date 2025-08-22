@@ -58,25 +58,25 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
   <!-- First four sections -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/no1annn/no1annn">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance">
     </a>
-    <a href="https://github.com/no1annn/no1annn">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/badge/maintainer-theMaintainer-blue" alt="Maintainer">
     </a>
-    <a href="https://github.com/no1annn/no1annn">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website shields.io">
     </a>
-    <a href="https://github.com/no1annn/no1annn">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !">
     </a>
   </div>
   <!-- Last three sections -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/no1annn/no1annn">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg" alt="Demandez moi n'importe quoi !">
     </a>
-    <a href="https://github.com/no1annn/no1annn">
+    <a href="https://github.com/no1annn">
       <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg" alt="GitHub license">
     </a>
     <a href="https://github.com/no1annn">
